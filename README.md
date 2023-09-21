@@ -4,9 +4,9 @@
 
 | Technology Used         | Resource URL           | 
 | ------------- |:-------------:| 
-| HTML    | [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | 
+| HTML    | [Mozilla Developer Tools](https://developer.mozilla.org/en-US/docs/Web/HTML) | 
 | CSS     | [W3 Schools](https://www.w3schools.com/css/default.asp)      |   
-| Git | [https://github.com/](https://githubcom/)     |    
+| Git | [GitHub](https://github.com/)     |    
 
 ## Description 
 
