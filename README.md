@@ -10,8 +10,6 @@
 
 ## Description 
 
-[Github Repo location is](https://github.com/flimits/project-horiseon)
-
 The goal of this project is to take a known web site and refactoring the HTML and CSS and..
 - Adding Accessibity functionality to the WEB page (ike adding 'alt' to images)
 - Fix any mistakes in the coding (if any)
@@ -32,5 +30,7 @@ If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https:/
 
 If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
 
+## Where are the links to the Pages and Deployed code???
 
-![Horisean Landing Page](https://github.com/flimits/project-horiseon)
+- Here is a link to the Deployed Website for Horiseon [Deployed Site](https://flimits.github.io/project-horiseon/).
+- To look at the Github Repo. Go here [Horiseon Project](https://github.com/flimits/project-horiseon).
